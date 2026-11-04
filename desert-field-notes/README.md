@@ -40,5 +40,5 @@ The project was checked with local automated source checks. These checks verify 
 
 **Repository URL:** https://github.com/cteubank-ux/desert-field-notes.git
 
-**Published URL:** 
+**Published URL:**  https://cteubank-ux.github.io/desert-field-notes/
 
