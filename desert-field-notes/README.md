@@ -38,12 +38,6 @@ The project was checked with local automated source checks. These checks verify 
 
 ## Repository and publishing steps
 
-1. Create a GitHub repository named `desert-field-notes` (or another name approved by the instructor).
-2. Upload the contents of this project folder to the repository root. The `index.html` file must be at the repository root.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. Wait for the Pages deployment to finish. Copy the published URL from the Pages settings and add it to the submission below.
-
 **Repository URL:** Add your GitHub repository URL after creating it.
 
 **Published URL:** Add the GitHub Pages URL after deployment.
