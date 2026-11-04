@@ -38,7 +38,7 @@ The project was checked with local automated source checks. These checks verify 
 
 ## Repository and publishing steps
 
-**Repository URL:** Add your GitHub repository URL after creating it.
+**Repository URL:** https://github.com/cteubank-ux/desert-field-notes.git
 
-**Published URL:** Add the GitHub Pages URL after deployment.
+**Published URL:** 
 
