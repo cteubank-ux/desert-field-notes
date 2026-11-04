@@ -30,7 +30,8 @@ The project was checked with local automated source checks. These checks verify 
 
 ## Code defense
 
-- **Relative paths:** `../` moves from the `pages/` folder to the project root. This makes the resources page work on both a local server and a project-site path such as `https://username.github.io/repository/`.
+- **Relative paths:** `../` moves from the `pages/` folder to the project root.
+
 - **Viewport:** `device-width` makes the layout viewport match the device's CSS-pixel width. It does not by itself make fixed-width content responsive; the CSS must also fit the available space.
 - **Image alternative:** Alternative text should communicate the informative content of the image, not merely name its broad category.
 - **Grid:** `repeat()` is required to repeat the auto-fit track pattern. `min(100%, 325px)` prevents the minimum track size from exceeding a very narrow available container.
