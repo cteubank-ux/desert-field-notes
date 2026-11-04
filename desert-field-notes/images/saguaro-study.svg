@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">Saguaro study</title>
+  <desc id="desc">A simplified saguaro silhouette on a desert horizon beneath a warm sky.</desc>
+  <rect width="800" height="360" fill="#f4d7a1"/>
+  <circle cx="650" cy="85" r="48" fill="#ef8d32"/>
+  <path d="M0 285 Q180 220 350 280 T800 255 V360 H0Z" fill="#c98554"/>
+  <path d="M390 290 V105 Q390 82 410 82 Q430 82 430 105 V165 H466 V130 Q466 112 483 112 Q500 112 500 130 V185 Q500 202 483 202 H430 V290Z" fill="#3f704d"/>
+</svg>
